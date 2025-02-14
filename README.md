@@ -14,4 +14,4 @@ A simple CRUD (Create, Read, Update, Delete) web application built using HTML, C
 ## Technologies Used
 - **HTML** for structure
 - **CSS** for styling
-- **JavaScript** for interactivity and data management
+- **JavaScript ( LocalStorage )** for interactivity and data management and
